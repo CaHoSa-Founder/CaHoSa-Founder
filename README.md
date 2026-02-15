@@ -43,7 +43,9 @@ CaHoSa AI introduces a proactive safety intelligence model that shifts care envi
 Key innovation areas:
 
 • Domain-informed AI combining microbiology, IPC expertise, and operational safety data.
+
 • Predictive modelling applied to real-world care workflows.
+
 • Decision-support designed for frontline usability rather than purely retrospective analytics.
 
 
