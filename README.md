@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am the founder of CaHoSa AI (Care Home Safety AI), a predictive safety intelligence platform designed to support safer care environments through risk analytics, Infection Prevention & Control (IPC) modelling, and AI-assisted decision support.
+I am the founder of CaHoSa (Care Home Safety) AI, a clinically-informed predictive safety intelligence platform designed to support safer care environments through risk analytics, Infection Prevention & Control modelling, and AI-assisted decision support.
 
 My work combines frontline healthcare experience, advanced microbiology training, and safety science to move care systems from reactive compliance toward proactive risk detection.
 
@@ -36,11 +36,21 @@ CaHoSa AI is designed to combine:
 
 Focus: proactive risk detection + safer decisions, not blame.
 
+## Innovation Positioning
+
+CaHoSa AI introduces a proactive safety intelligence model that shifts care environments from reactive incident reporting toward predictive risk awareness.
+
+Key innovation areas:
+
+• Domain-informed AI combining microbiology, IPC expertise, and operational safety data.
+• Predictive modelling applied to real-world care workflows.
+• Decision-support designed for frontline usability rather than purely retrospective analytics.
 
 
 ## Proof of Work (Early Evidence)
 
-- Domains secured: cahosa.com / cahosa.ai / cahosa.co.uk / cahosa.health
+- Brand infrastructure established:
+• Primary domains secured (cahosa.com, cahosa.ai, cahosa.co.uk, cahosa.health)
 - Public technical roadmap and documentation in progress
 - Core repository established: CaHoSa-AI-Core
 - Building toward prototype validation with care-environment use cases
@@ -56,8 +66,7 @@ Focus: proactive risk detection + safer decisions, not blame.
 
 ## Vision
 
-Building intelligent systems that improve safety outcomes across healthcare and care environments through data-driven prevention.
-
+Building intelligent systems that improve safety outcomes across healthcare and care environments through data-driven prevention. The long-term goal is to support predictive safety intelligence across care systems, enabling earlier intervention and data-driven prevention.
 
 
 ## Connect
