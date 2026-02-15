@@ -25,10 +25,25 @@ CaHoSa AI aims to:
 - Support clinical governance and operational decision-making
 - Improve infection prevention strategies using predictive modelling
 - Reduce reactive incident reporting through early intervention insights
+  
+## How CaHoSa AI Works
 
-Website: https://www.cahosa.com
+CaHoSa AI is designed to combine:
+- Operational signals (incidents, observations, audits, logs)
+- IPC risk factors and domain rules
+- Predictive modelling to estimate risk trends
+- Decision support outputs (alerts, priorities, recommended actions)
+
+Focus: proactive risk detection + safer decisions, not blame.
 
 
+
+## Proof of Work (Early Evidence)
+
+- Domains secured: cahosa.com / cahosa.ai / cahosa.co.uk / cahosa.health
+- Public technical roadmap and documentation in progress
+- Core repository established: CaHoSa-AI-Core
+- Building toward prototype validation with care-environment use cases
 
 ## Background
 
@@ -47,4 +62,6 @@ Building intelligent systems that improve safety outcomes across healthcare and 
 
 ## Connect
 
-Website: https://www.cahosa.com
+Website: https://www.cahosa.com  
+GitHub: https://github.com/CaHoSa-Founder  
+Email: sundayabi@cahosa.com
