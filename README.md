@@ -49,8 +49,7 @@ Key innovation areas:
 
 ## Proof of Work (Early Evidence)
 
-- Brand infrastructure established:
-• Primary domains secured (cahosa.com, cahosa.ai, cahosa.co.uk, cahosa.health)
+- Brand infrastructure established: Primary domains secured (cahosa.com, cahosa.ai, cahosa.co.uk, cahosa.health)
 - Public technical roadmap and documentation in progress
 - Core repository established: CaHoSa-AI-Core
 - Building toward prototype validation with care-environment use cases
