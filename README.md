@@ -1,7 +1,9 @@
-# Sunday Stephen Abi — Founder of CaHoSa AI
+Sunday Stephen Abi — Microbiologist | Infection Prevention & Translational Safety Research
 
 ## About Me
 I am a microbiologist and infection prevention specialist working at the intersection of environmental microbiology, infection prevention science, and healthcare safety systems. I am developing CaHoSa (Care Home Safety) AI as a translational research initiative that applies microbiological risk modelling and patient safety science to predictive risk detection within care environments.
+
+My work aligns with UK priorities in antimicrobial resistance (AMR), healthcare-associated infection prevention, and proactive patient safety innovation through translational microbiology.
 
 My work combines frontline healthcare experience, advanced microbiology training, and safety science to move care systems from reactive compliance toward proactive risk detection.
 
@@ -24,7 +26,7 @@ CaHoSa AI is grounded in established microbiology and infection prevention princ
 - Early detection and prevention aligned with antimicrobial resistance (AMR) priorities
 - Systems-based patient safety and human factors approaches
 
-The project is positioned as translational research, bridging laboratory microbiology knowledge with real-world healthcare implementation.
+The project is positioned as translational research, bridging microbiology science, infection prevention theory, and real-world healthcare implementation to support evidence-driven safety innovation.
 
 ## CaHoSa AI
 
@@ -45,7 +47,7 @@ CaHoSa AI is designed to combine:
 
 Focus: proactive risk detection + safer decisions, not blame.
 
-## Innovation Positioning
+## Tranlational Innovation Positioning
 
 CaHoSa AI introduces a proactive safety intelligence model that shifts care environments from reactive incident reporting toward predictive risk awareness.
 
@@ -57,6 +59,7 @@ The development of CaHoSa AI follows a research-informed approach:
 - Pilot evaluation within care environment workflows
 - Continuous improvement through audit cycles and evidence-based refinement
 - Alignment with data governance, ethical practice, and responsible AI principles
+- Iterative hypothesis testing and model refinement informed by real-world operational data
 
 The long-term aim is to support research into predictive infection prevention and proactive safety intelligence across healthcare systems.
 
